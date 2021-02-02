@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\dkoprek_zadaca_1\bin\Debug\net46\dkoprek_zadaca_1.exe.config
+C:\Users\David\Desktop\dkoprek_zadaca_1\bin\Debug\net46\dkoprek_zadaca_1.exe
+C:\Users\David\Desktop\dkoprek_zadaca_1\bin\Debug\net46\dkoprek_zadaca_1.pdb
+C:\Users\David\Desktop\dkoprek_zadaca_1\obj\Debug\net46\dkoprek_zadaca_1.csprojAssemblyReference.cache
+C:\Users\David\Desktop\dkoprek_zadaca_1\obj\Debug\net46\dkoprek_zadaca_1.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\dkoprek_zadaca_1\obj\Debug\net46\dkoprek_zadaca_1.AssemblyInfo.cs
+C:\Users\David\Desktop\dkoprek_zadaca_1\obj\Debug\net46\dkoprek_zadaca_1.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\dkoprek_zadaca_1\obj\Debug\net46\dkoprek_zadaca_1.exe
+C:\Users\David\Desktop\dkoprek_zadaca_1\obj\Debug\net46\dkoprek_zadaca_1.pdb

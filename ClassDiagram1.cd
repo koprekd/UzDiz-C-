@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dkoprek_zadaca_3.AbstractHandler" Collapsed="true">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAgAAA=</HashCode>
+      <FileName>ChainOfResponsibility\AbstractHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.Activity" Collapsed="true">
+    <Position X="16.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAKAAAEAAAAAAAAAAAAAAiAAAgAAAABAAAEAIBEEQA=</HashCode>
+      <FileName>Activity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.ActivityExecutor" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAABAAEgkQIAAhGgAAgACAACAIIQAAIACBAgAA=</HashCode>
+      <FileName>ActivityExecutor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.ActivityLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAABAAAAAIAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>FactoryMethod\ActivityLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.ActivityLoaderFactory" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\ActivityLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.Bill" Collapsed="true">
+    <Position X="23.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAgEAQQAAAgAAAAAAAAgACAABAAAAAAAAAAAAI=</HashCode>
+      <FileName>Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.CreateBillHandler" Collapsed="true">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ChainOfResponsibility\CreateBillHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.Database" Collapsed="true">
+    <Position X="15.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAUgAAiEAIABAAABCEAAAAAAAAgQsWCQAA=</HashCode>
+      <FileName>Singleton\Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.DepthIterator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAAAAAAAAAAAAAAgAAAAAAAQCQAAAAAAAAAAAAA=</HashCode>
+      <FileName>IteratorPattern\DepthIterator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.LoaderFactory" Collapsed="true">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\LoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.Location" Collapsed="true">
+    <Position X="1.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAAAAAAAAAAAAABQwACAEAAACKAAQAAAIAAA=</HashCode>
+      <FileName>Composite\Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.LocationCapacity" Collapsed="true">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAQAAAAAAAAAAAgAEAAABAAAAAAAAAA=</HashCode>
+      <FileName>LocationCapacity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.LocationCapacityLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAIAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\LocationCapacityLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.LocationCapacityLoaderFactory" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\LocationCapacityLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.LocationLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAIAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\LocationLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.LocationLoaderFactory" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\LocationLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.OrganizationalUnit" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAQAAAAAAAAQDABIABBQwACAEAAAgKgAQAAAAAAA=</HashCode>
+      <FileName>Composite\OrganizationalUnit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.OrganizationalUnitInterface" Collapsed="true">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABBAQACAEAAAAIAAQAAAAAAA=</HashCode>
+      <FileName>Composite\OrganizationalUnitInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.OrganizationUnitObject" Collapsed="true">
+    <Position X="27.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>OrganizationUnitObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.OrganizationUnitObjectLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>FactoryMethod\OrganizationUnitObjectLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.OrganizationUnitObjectLoaderFactory" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\OrganizationUnitObjectLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.Person" Collapsed="true">
+    <Position X="19" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCEAAAQAAAAAAAAAAAAAAAAAAAAAAAAgIAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.PersonLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>FactoryMethod\PersonLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.PersonLoaderFactory" Collapsed="true">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\PersonLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.PriceList" Collapsed="true">
+    <Position X="25.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAIAAAAAAAAAAgAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>PriceList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.PriceListLoaderFactory" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\PriceListLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.PriceListLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>FactoryMethod\PriceListLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.PrintBillHandler" Collapsed="true">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ChainOfResponsibility\PrintBillHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.Program" Collapsed="true">
+    <Position X="18" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAURAAAAAAAAAIAgAAAAACAAABACAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.Rental" Collapsed="true">
+    <Position X="19" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAACAAAEAAAAAAAABAAAAAAAQAAAAAAAAQA=</HashCode>
+      <FileName>Rental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.Vehicle" Collapsed="true">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAEQAAAAEIACEBAAAEAhAAABQAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleStatePattern\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VehicleState" Collapsed="true">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAIAAAAAAAAAEAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleStatePattern\VehicleState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VehicleStateBroken" Collapsed="true">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleStatePattern\VehicleStateBroken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VehicleStateCharging" Collapsed="true">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleStatePattern\VehicleStateCharging.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VehicleStateFree" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleStatePattern\VehicleStateFree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VehicleStateRented" Collapsed="true">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>VehicleStatePattern\VehicleStateRented.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VehicleType" Collapsed="true">
+    <Position X="16.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VehicleTypeLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\VehicleTypeLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VehicleTypeLoaderFactory" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\VehicleTypeLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dkoprek_zadaca_3.VirtualTime" Collapsed="true">
+    <Position X="18.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Singleton\VirtualTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="dkoprek_zadaca_3.IHandler" Collapsed="true">
+    <Position X="13.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ChainOfResponsibility\IHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="dkoprek_zadaca_3.Iterable" Collapsed="true">
+    <Position X="9" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IteratorPattern\Iterable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="dkoprek_zadaca_3.Iterator" Collapsed="true">
+    <Position X="6.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>IteratorPattern\Iterator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="dkoprek_zadaca_3.Loader" Collapsed="true">
+    <Position X="1.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Loader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
